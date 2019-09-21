@@ -76,6 +76,7 @@ npm install
 ```
 it will install the packeges.
 
+After install process now you can run local server- local server port is 'http://localhost:3000'
 For developement start use
 ```bash
 npm start
